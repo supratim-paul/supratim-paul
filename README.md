@@ -10,7 +10,7 @@
 
 ![Location](https://img.shields.io/badge/India-UTC%20%2B05%3A30-4c1d95?style=flat-square&logo=googlemaps&logoColor=white)
 ![Role](https://img.shields.io/badge/Software%20Developer-6d28d9?style=flat-square&logo=githubsponsors&logoColor=white)
-![Freelance](https://img.shields.io/badge/Open%20to-Freelance-7c3aed?style=flat-square)
+![Internship](https://img.shields.io/badge/Open%20to-Internship-7c3aed?style=flat-square)
 
 <br/>
 
