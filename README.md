@@ -167,7 +167,7 @@ A complete, dependency-free application demonstrating clean data modeling and bu
 
 ## Experience
 
-### Freelance Full-Stack Developer
+### Full-Stack Developer
 **Independent** &nbsp;·&nbsp; *Present*
 
 Designing and delivering full-stack web applications and secure REST APIs for clients and personal products.
