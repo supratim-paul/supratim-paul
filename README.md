@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=220&section=header&text=Supratim%20Paul&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descSize=20&descAlignY=60" width="100%" />
 
 <a href="https://github.com/supratim-paul">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;Python+%7C+FastAPI+%7C+Node.js+%7C+React;Building+Secure+REST+APIs+%26+Full-Stack+Apps;Open+to+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;Python+%7C+FastAPI+%7C+Node.js+%7C+React;Building+Secure+REST+APIs+%26+Full-Stack+Apps;Open+to+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
