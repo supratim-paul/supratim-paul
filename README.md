@@ -16,7 +16,7 @@
 
 <a href="https://supratimpaul-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/supratim-paul-9b6403330"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:supratimpaul2023@gmail.com"><img src="https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:supratimpaul06dev@gmail.com"><img src="https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/supratim-paul"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
@@ -270,7 +270,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:supratimpaul2023@gmail.com"><img src="https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:supratimpaul06dev@gmail.com"><img src="https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/supratim-paul-9b6403330"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/supratim-paul"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://supratimpaul-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
